@@ -1,5 +1,5 @@
 .container1 {
-  border: 3px solid yellow ;
+  border: 3px solid yellow;
   width:50%;
   top: 0;
   left: 25%;
@@ -18,10 +18,9 @@
   padding: 10px;
 }
 .teams {
-font-size: 25px
-
+  font-size: 25px
 }
 .nbalogo {
-width: 500px;
-height: 2000 px;
+  width: 500px;
+  height: 2000 px;
 }
