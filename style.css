@@ -1,0 +1,26 @@
+.container1 {
+  border: 3px solid yellow ;
+  width:50%;
+  top: 0;
+  left: 25%;
+  position: fixed;
+}
+.nba {
+  text-align: center;
+  color: red;
+}
+.warriorslogo {
+  display: block;
+  margin: auto;
+}
+.heatlogo {
+  float: left;
+  padding: 10px;
+}
+.teams {
+font-size: 30px
+}
+.nbalogo {
+width: 500px;
+height: 2000 px;
+}
